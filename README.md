@@ -2,9 +2,7 @@
 ## Packet Tracer Labs Write-Up
 
 - **Student:** Hazem Hussein
-- **Group:** G18
 - **Institute:** NTI
-- **Semester:** SEM1_LABS
 - **Tool:** Cisco Packet Tracer
 
 This repository documents the Packet Tracer labs I completed during CCNA v7 *Introduction to Networks*. Every lab has its own README explaining the goal, the topology, the steps, and every command used.
